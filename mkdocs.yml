@@ -1,18 +1,18 @@
-site_name: Carter's Stellar Towers Docs (Dev)
+site_name: "Carter's Stellar Towers Docs (Dev)"
 theme:
   name: material
 
 markdown_extensions:
-- toc:
-    permalink: true
-- footnotes
-- tables
-- def_list
-- attr_list
-- nl2br
-- admonition
-- pymdownx.details
-- pymdownx.superfences
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+  - def_list
+  - attr_list
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search
