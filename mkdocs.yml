@@ -1,4 +1,5 @@
 site_name: "Carter's Stellar Towers Docs (Dev)"
+site_url: https://cst-game.github.io/docs/
 theme:
   name: material
 
