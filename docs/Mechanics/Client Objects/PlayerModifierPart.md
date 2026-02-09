@@ -6,7 +6,7 @@ Changes the speed or jump power of a player.
 # Resetting Properties
 The `Reset` attribute resets your speed to the default walk speed of 16 and jump power of 50. It resets all stats.
 ## Resetting Single Stat
-To reset a single stat, you must have the `AffectsSpeed` or `AffectsJump` attribute set to true for what you want to reset and change it to the default.
+To reset a single stat, `AffectsSpeed` or `AffectsJump` attribute must be set to true for what you want to reset and change it to the default.
 # Config
 - `AffectsJump`: Decides if the modifier will affect the jump power of a player. Default is `false`
 - `AffectsSpeed`: Decides if the modifier will affect the walk speed of a player. Default is `true`
