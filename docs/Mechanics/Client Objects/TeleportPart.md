@@ -1,13 +1,17 @@
 ---
 tags:
 ---
-A part that teleports a player from one part to another.
 > [!note]
 > The part has a distinction in the tower kit as `TeleportStart` and `TeleportEnd`.
+>
 > **TeleportStart**
-> ![[teleportStart.png]]
+>
+> ![TeleportStart](../Images/teleportStart.png)
+>
 > **TeleportEnd**
-> ![[teleportEnd.png]]
+>
+> ![TeleportEnd](../Images/teleportEnd.png)
+
 
 # Config
 - `Id`: The teleport id that links teleport parts together. Default is `102`

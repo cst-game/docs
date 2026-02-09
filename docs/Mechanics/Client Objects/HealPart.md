@@ -2,7 +2,8 @@
 tags:
   - ClientObject
 ---
-![[healPart.png]]Heals a specified amount of health. Can heal multiple times after a cooldown.
+![healPart](../Images/healPart.png)
+Heals a specified amount of health. Can heal multiple times after a cooldown.
 > [!attention]
 > Only applies to the local player to prevent health update conflicts.
 

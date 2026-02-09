@@ -2,7 +2,8 @@
 tags:
   - ClientObject
 ---
-![[virusPart.png]]A part that deals repetitive damage at a set interval as long even after a player has touched it.
+![virusPart](../Images/virusPart.png)
+A part that deals repetitive damage at a set interval as long even after a player has touched it.
 > [!attention]
 > Only applies to the local player to prevent health update conflicts.
 # Config

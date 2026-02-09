@@ -2,7 +2,8 @@
 tags:
   - ClientObject
 ---
-![[stand.png]]A part that forces a player to stand up if they are sitting.
+![stand](../Images/stand.png)
+A part that forces a player to stand up if they are sitting.
 # Config
 None
 # Tags
