@@ -1,6 +1,6 @@
 site_name: Carter's Stellar Towers Docs (Dev)
 theme:
-  name: material   # if installed
+  name: material
 
 markdown_extensions:
 - toc:
