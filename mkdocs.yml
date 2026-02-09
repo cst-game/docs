@@ -18,3 +18,9 @@ markdown_extensions:
 plugins:
   - search
   - callouts
+  - awesome-pages
+
+theme:
+  name: material
+  features:
+    - content.heading.anchors
