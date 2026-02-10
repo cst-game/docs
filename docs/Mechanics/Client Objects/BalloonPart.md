@@ -9,7 +9,7 @@ The `BalloonPart` attaches a balloon to a player or other character that moves t
 - `Duration`: The length of time before the balloon is automatically disconnected from a character. Setting it to `0` or lower never removes it from a character. Default is `5`
 - `MoveDir`: The direction in which the `Velocity` is applied. Must be a unit vector. Default is `0, 1, 0`
   > [!tip]
-  > `MoveDir` is automatically converted to a unit vector
+  > `MoveDir` is automatically cast to a unit vector
 - `RandomColor`: Decides if a random color is applied instead of `BalloonColor`. Default is `false`
 - `RestrictPlayer`: Limits the activation to only characters with a player character. Default is `true`
 - `RopeLength`: Length of the rope that attaches the player to the balloon. Default is `1.5`

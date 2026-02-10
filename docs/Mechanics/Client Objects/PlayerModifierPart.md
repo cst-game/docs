@@ -2,6 +2,9 @@
 tags:
   - ClientObject
 ---
+> [!note]
+> This is not featured in the tower kit currently. Sit tight!
+
 Changes the speed or jump power of a player.
 # Resetting Properties
 The `Reset` attribute resets your speed to the default walk speed of 16 and jump power of 50. It resets all stats.
